@@ -12,5 +12,3 @@ If you find our work useful for you, please cite:
 
 Vinh, N. X., Chetty, M., Coppel, R., and Wangikar, P. P. (2011). GlobalMIT: Learning Globally Optimal Dynamic Bayesian Network with the Mutual Information Test (MIT) Criterion, Bioinformatics, doi: 10.1093/bioinformatics/btr457, Pre-publication PDF Publisher's site PDF
 
-http://m.maploco.com/details/8952db4e'>http://www.maploco.com/vmap/s/3980174.png' alt='Locations of Site Visitors' title='Locations of Site Visitors' />
-
